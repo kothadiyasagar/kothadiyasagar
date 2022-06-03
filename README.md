@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kothadiyasagar&show_icons=true&locale=en" alt="kothadiyasagar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kothadiyasagar&" alt="kothadiyasagar" /></p>
-[![Sagar Kothadiya GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=suranaarpit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/kothadiyasagar)
+
