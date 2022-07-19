@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sagar Kothadiya</h1>
-<h3 align="center">Aspiring Full Stack Web Developer from India</h3>
+<h3 align="center">Self-motivated and Aspiring software
+developer, with expertise in MERN stack
+technologies, like JavaScript, Node.js,
+MongoDB, React.js, Redux, express,
+TypeScript, Cypress, DSA. Teams Player,
+adapting to new environments,
+workflows, and technologies, Looking
+for Challenges role as web developer in
+growth orientate organization.</h3>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"  align="right"  width="400"/>
 
@@ -10,6 +18,11 @@
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Redux**
 
 - 📫 How to reach me **dineshbhaikothadiya504@gmail.com**
+- Portfolio : https://portfolio-sagar-kothadiya.netlify.app/
+- LICIOUS CLONE : Licious is leading to deliver one-stop fresh meat.It is India’s first D2C Unicorn, The company operates on a farm-to-fork model, owning the entire     back-end supply chain and cold chain[https://licious.netlify.app/]
+- BELLA VITA ORAGANIC : Bella Vita Organic or 'The Good Life' is a leading natural beauty and skincare brand committed to building handcrafted, natural solutions        invigorated by the natural elements of the earth and ancient skin and hair care practices[https://classy-salmiakki-2002be.netlify.app/]
+- Netmeds.com : Netmeds.com is leading E-Commerce website for all type of cosmetic products such as makeup, skin care, hair, fragrance's and tools and brush.
+  [https://unrivaled-sprite-2be9c1.netlify.app/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
