@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Kothadiya</h1>
-<h3 align="center">Self-motivated and Aspiring software
-developer, with expertise in MERN stack
-technologies, like JavaScript, Node.js,
-MongoDB, React.js, Redux, express,
-TypeScript, Cypress, DSA. Teams Player,
-adapting to new environments,
-workflows, and technologies, Looking
-for Challenges role as web developer in
-growth orientate organization.</h3>
+<h3 align="center">I am a Self-motivated and Aspiring software developer, with expertise in MERN stack technologies, like JavaScript, Node.js, MongoDB, React.js, Redux, Express, TypeScript, Cypress, and DSA. Teams Player, adapting to new environments, workflows, and technologies, Looking for Challenges role as a web developer in growth orientate organization.</h3>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"  align="right"  width="400"/>
 
